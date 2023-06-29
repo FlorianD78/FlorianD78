@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/FloooOOOO"><img src="https://api.daily.dev/devcards/390bfd51d5f44da4a707350b0f697a63.png?r=mk4" width="400" alt="Florian Diaby's Dev Card"/></a>
+<a href="https://app.daily.dev/FloooOOOO"><img src="https://github.com/FlorianD78/FlorianD78/blob/main/devcard.svg" width="400" alt="Florian Diaby's Dev Card"/></a>
 <!--
 **FlorianD78/FlorianD78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
