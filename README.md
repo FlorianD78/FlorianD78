@@ -1,5 +1,6 @@
 ### Hi there 👋
 <a href="https://app.daily.dev/FloooOOOO"><img src="https://github.com/FlorianD78/FlorianD78/blob/main/devcard.svg" width="400" alt="Florian Diaby's Dev Card"/></a>
+![GH stats](https://github-readme-stats.vercel.app/api?usernameFlorianD78&show_icons=true&theme=light)
 <!--
 **FlorianD78/FlorianD78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
